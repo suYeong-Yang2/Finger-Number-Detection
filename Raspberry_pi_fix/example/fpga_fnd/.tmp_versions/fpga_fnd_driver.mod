@@ -1,0 +1,3 @@
+/home/test/Downloads/examples/fpga_example/fpga_fnd/fpga_fnd_driver.ko
+/home/test/Downloads/examples/fpga_example/fpga_fnd/fpga_fnd_driver.o
+

@@ -1,0 +1,1 @@
+savedcmd_/home/kjh/example/fpga_led_k6/fpga_led_driver.ko := aarch64-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm64/module.lds -o /home/kjh/example/fpga_led_k6/fpga_led_driver.ko /home/kjh/example/fpga_led_k6/fpga_led_driver.o /home/kjh/example/fpga_led_k6/fpga_led_driver.mod.o /home/kjh/example/fpga_led_k6/.module-common.o

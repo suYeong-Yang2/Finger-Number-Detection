@@ -1,0 +1,2 @@
+0x022aa1b1	iom_fpga_itf_write	/home/test/Downloads/examples/fpga_example/fpga_interface_driver/fpga_interface_driver	EXPORT_SYMBOL
+0xa6620baa	iom_fpga_itf_read	/home/test/Downloads/examples/fpga_example/fpga_interface_driver/fpga_interface_driver	EXPORT_SYMBOL

@@ -1,0 +1,1 @@
+savedcmd_/home/kjh/example/fpga_text_lcd_k6/fpga_text_lcd_driver.mod := printf '%s\n'   fpga_text_lcd_driver.o | awk '!x[$$0]++ { print("/home/kjh/example/fpga_text_lcd_k6/"$$0) }' > /home/kjh/example/fpga_text_lcd_k6/fpga_text_lcd_driver.mod
