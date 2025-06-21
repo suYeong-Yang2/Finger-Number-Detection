@@ -1,0 +1,3 @@
+/home/test/Downloads/examples/fpga_example/fpga_text_lcd/fpga_text_lcd_driver.ko
+/home/test/Downloads/examples/fpga_example/fpga_text_lcd/fpga_text_lcd_driver.o
+

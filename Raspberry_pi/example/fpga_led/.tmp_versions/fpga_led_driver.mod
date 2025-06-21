@@ -1,0 +1,3 @@
+/home/test/Downloads/examples/fpga_example/fpga_led/fpga_led_driver.ko
+/home/test/Downloads/examples/fpga_example/fpga_led/fpga_led_driver.o
+

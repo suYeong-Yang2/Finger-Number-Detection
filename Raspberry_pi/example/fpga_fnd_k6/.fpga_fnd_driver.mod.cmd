@@ -1,0 +1,1 @@
+savedcmd_/home/kjh/example/fpga_fnd_k6/fpga_fnd_driver.mod := printf '%s\n'   fpga_fnd_driver.o | awk '!x[$$0]++ { print("/home/kjh/example/fpga_fnd_k6/"$$0) }' > /home/kjh/example/fpga_fnd_k6/fpga_fnd_driver.mod
