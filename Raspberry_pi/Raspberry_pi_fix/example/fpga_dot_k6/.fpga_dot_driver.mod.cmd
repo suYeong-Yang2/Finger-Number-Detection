@@ -1,1 +1,0 @@
-savedcmd_/home/kjh/example/fpga_dot_k6/fpga_dot_driver.mod := printf '%s\n'   fpga_dot_driver.o | awk '!x[$$0]++ { print("/home/kjh/example/fpga_dot_k6/"$$0) }' > /home/kjh/example/fpga_dot_k6/fpga_dot_driver.mod

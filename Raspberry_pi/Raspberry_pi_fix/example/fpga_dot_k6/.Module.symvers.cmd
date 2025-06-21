@@ -1,1 +1,0 @@
-savedcmd_/home/kjh/example/fpga_dot_k6/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/kjh/example/fpga_dot_k6/Module.symvers -T /home/kjh/example/fpga_dot_k6/modules.order -i Module.symvers -e 
